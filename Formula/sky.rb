@@ -1,5 +1,5 @@
 class Sky < Formula
-  desc "Your CLI tool description here"
+  desc "Sky CLI tool"
   homepage "https://github.com/KristofferRisa/sky-cli"
   version "1.1.0"
   
